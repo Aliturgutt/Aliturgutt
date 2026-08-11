@@ -1,1 +1,0 @@
-This repository exists solely to render the public GitHub profile README for Ali Turgut, founder of ILAIOS. Proprietary ILAIOS source code remains private.
