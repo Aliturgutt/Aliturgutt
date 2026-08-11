@@ -1,10 +1,8 @@
 # Ali Turgut
 
-Founder of **ILAIOS**
+**Founder of ILAIOS**
 
-I am building ILAIOS, a technology company focused on governed AI infrastructure for intelligent automation and autonomous operations.
-
-My work centers on making AI systems useful in real operational environments through explicit control, secure execution, validation, observability, and evidence.
+I build governed infrastructure for intelligent automation and autonomous operations, with a focus on secure execution, operational control, verification, and evidence-driven AI systems.
 
 ## Focus areas
 
@@ -15,16 +13,15 @@ My work centers on making AI systems useful in real operational environments thr
 - AI Security
 - Multi-Agent Systems
 - Secure Automation
-- Operational AI Systems
+- AI Orchestration
 
 ## ILAIOS
 
-ILAIOS is developing systems that help AI move beyond response generation toward controlled, auditable, and measurable execution of real work.
+ILAIOS is an independent technology company developing governed systems for intelligent automation. The product direction centers on reliable execution, explicit authority, validation, security, and operational visibility.
 
-Website: https://ilaios.com  
-LinkedIn: https://www.linkedin.com/in/ali-turgut-ilaios/  
-Company: https://www.linkedin.com/company/ilaios/
+- Website: https://ilaios.com
+- LinkedIn: https://www.linkedin.com/in/ali-turgut-ilaios/
+- ILAIOS on LinkedIn: https://www.linkedin.com/company/ilaios/
+- Contact: contact@ilaios.com
 
----
-
-**Ali Turgut — Founder of ILAIOS**
+> The main ILAIOS source repository is private. Public materials intentionally expose company and product information without publishing proprietary source code or sensitive implementation details.
