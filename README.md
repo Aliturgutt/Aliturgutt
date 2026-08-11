@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ali Turgut
 
-<!--
-**Aliturgutt/Aliturgutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **ILAIOS**
 
-Here are some ideas to get you started:
+I am building ILAIOS, a technology company focused on governed AI infrastructure for intelligent automation and autonomous operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work centers on making AI systems useful in real operational environments through explicit control, secure execution, validation, observability, and evidence.
+
+## Focus areas
+
+- AI Infrastructure
+- Intelligent Automation
+- Agentic AI
+- AI Governance
+- AI Security
+- Multi-Agent Systems
+- Secure Automation
+- Operational AI Systems
+
+## ILAIOS
+
+ILAIOS is developing systems that help AI move beyond response generation toward controlled, auditable, and measurable execution of real work.
+
+Website: https://ilaios.com  
+LinkedIn: https://www.linkedin.com/in/ali-turgut-ilaios/  
+Company: https://www.linkedin.com/company/ilaios/
+
+---
+
+**Ali Turgut — Founder of ILAIOS**
