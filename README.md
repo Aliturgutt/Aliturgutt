@@ -23,6 +23,7 @@ ILAIOS is an independent technology company developing governed systems for inte
 - Website: https://ilaios.com
 - LinkedIn: https://www.linkedin.com/in/ali-turgut-ilaios/
 - ILAIOS on LinkedIn: https://www.linkedin.com/company/ilaios/
+- X: https://x.com/ilaios
 - Contact: contact@ilaios.com
 
 The main ILAIOS source repository remains private. Public materials intentionally expose company and product information without publishing proprietary source code, credentials, infrastructure details, or sensitive implementation information.
