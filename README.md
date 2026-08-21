@@ -2,23 +2,26 @@
 
 **Founder of ILAIOS**
 
-I build governed infrastructure for intelligent automation and autonomous operations, with a focus on secure execution, operational control, verification, and evidence-driven AI systems.
+I build governed AI systems focused on controlled execution, validation, security, operational authority, and evidence-driven automation.
 
 ## ILAIOS
 
-ILAIOS is an independent technology company developing governed systems for intelligent automation. The product direction centers on reliable execution, explicit authority, validation, security, and operational visibility.
+ILAIOS is a governed AI operating system for controlled, validated AI execution and finished-product workflows.
 
-### Focus areas
+The system is designed around explicit authority, policy-controlled execution, validation, security boundaries, operational visibility, and verifiable outcomes.
+
+ILAIOS is not intended to be a thin wrapper around a single model or a collection of loosely connected agents. Models, providers, tools, and external services remain replaceable execution resources within a governed system.
+
+## Focus areas
 
 - AI Infrastructure
-- Intelligent Automation
+- Governed AI Systems
 - Agentic AI
 - AI Governance & Security
-- Multi-Agent Systems
-- Secure Automation
-- AI Orchestration
+- Intelligent Automation
+- Validation & Evidence-Driven Execution
 
-### Official links
+## Official links
 
 - Website: https://ilaios.com
 - LinkedIn: https://www.linkedin.com/in/ali-turgut-ilaios/
