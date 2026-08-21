@@ -28,5 +28,3 @@ ILAIOS is not intended to be a thin wrapper around a single model or a collectio
 - ILAIOS on LinkedIn: https://www.linkedin.com/company/ilaios/
 - X: https://x.com/ilaios
 - Contact: contact@ilaios.com
-
-The main ILAIOS source repository remains private. Public materials intentionally expose company and product information without publishing proprietary source code, credentials, infrastructure details, or sensitive implementation information.
